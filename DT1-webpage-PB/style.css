@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainbody{
+    margin-left:20%;
+    margin-right: 20%;
+    height: 100%;
+}
+.logo{
+    weight:200px;
+    height: auto;
+    float: left;
+}
+.topnav{
+    background-color: #262626;
+    overflow: hidden;
+    width: 100%;
+    color: white;
+}
+.topnav a{
+    position: relative;
+    float:right;
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
